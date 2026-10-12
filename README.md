@@ -4,6 +4,11 @@
 
 <hr>
 
+
+<img width="2112" height="1632" alt="image" src="https://github.com/user-attachments/assets/8b76ae9f-2396-4d2c-b49b-a0c73d10e82f" />
+
+<hr>
+
 <h3>My project is a simple economy Discord bot.</h3>
 
 Hey there, i'm Estevan Chicoski, and i full-stack JS developer. I'm 19 years old and i'm live in Guarapuava, Paraná - Brazil
